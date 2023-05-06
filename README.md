@@ -14,9 +14,11 @@ The main work for this project was done in the ui/src/views/pages/company/job-ti
 To get started with the project, follow these steps:
 
 1. Clone the repository
-2. Navigate to the ui directory and run npm install
-3. Run npm start to start the development server
-4. That's it! You should now be able to see the application running in your browser.
+2. Navigate to the api directory and run npm install
+3. Run npm run json-server to start the json server
+4. Navigate to the ui directory and run npm install
+5. Run npm start to start the development server
+6. That's it! You should now be able to see the application running in your browser.
 
 ## Acknowledgments
 Thank you to Kuehne-Nagel for providing this internship opportunity and for their support throughout the project.
