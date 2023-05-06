@@ -1,0 +1,178 @@
+[
+	{
+	"id": 1,
+	"name": "Bottom of the Barrel",
+	"active": true,
+	"employeeIds": [3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010],
+	"description": "Involve them only when you tried all the other options" 
+	},{
+    "id": 2,
+    "name": "The Rolling Phones",
+    "active": true,
+    "employeeIds": [3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020],
+    "description": "Always in touch"
+  },{
+    "id": 3,
+    "name": "Dazed and Confused",
+    "active": true,
+    "employeeIds": [3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030],
+    "description": "They do what they can"
+  },{
+    "id": 4,
+    "name": "The Weakest Links",
+    "active": true,
+    "employeeIds": [3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040],
+    "description": "Need some expectations management here"
+  },{
+    "id": 5,
+    "name": "Business as Usual",
+    "active": true,
+    "employeeIds": [3121, 3122, 3123, 3124, 3125, 3126, 3127, 3128, 3129, 3130],
+    "description": "Clean routines for a clean world"
+  },{
+    "id": 6,
+    "name": "Sales Xpress",
+    "active": true,
+    "employeeIds": [3221, 3222, 3223, 3224, 3225, 3226, 3227, 3228, 3229, 3230],
+    "description": "Make you customers happy "
+  },{
+    "id": 7,
+    "name": "The Credit Crunchers",
+    "active": true,
+    "employeeIds": [3331, 3332, 3333, 3334, 3335, 3336, 3337, 3338, 3339, 3350],
+    "description": "Forget financial problems"
+  },{
+    "id": 8,
+    "name": "The Office Gladiators",
+    "active": true,
+    "employeeIds": [3421, 3422, 3423, 3424, 3425, 3426, 3427, 3428, 3429, 3430],
+    "description": "They never give up"
+  },{
+    "id": 9,
+    "name": "The Capitalists",
+    "active": true,
+    "employeeIds": [3361, 3362, 3363, 3364, 3365, 3366, 3367, 3368, 3369, 3370],
+    "description": "achieve best possible roi"
+  },{
+    "id": 10,
+    "name": "Office Piranhas",
+    "active": true,
+    "employeeIds": [3371, 3372, 3373, 3374, 3375, 3376, 3377, 3378, 3379, 3380],
+    "description": "Give them paperwork"
+  },{
+    "id": 11,
+    "name": "Weekend Warriors",
+    "active": true,
+    "employeeIds": [3521, 3522, 3523, 3524, 3525, 3526, 3527, 3528, 3529, 3530],
+    "description": "Best before Monday"
+  },{
+    "id": 12,
+    "name": "Minimum Wagers",
+    "active": true,
+    "employeeIds": [3621, 3622, 3623, 3624, 3625, 3626, 3627, 3628, 3629, 3630],
+    "description": "Saving never equals to earning"
+  },{
+    "id": 13,
+    "name": "Priceless Brains",
+    "active": true,
+    "employeeIds": [3601, 3602, 3603, 3604, 3605, 3606, 3607, 3608, 3609, 3610],
+    "description": "Every wish will come true"
+  },
+    {
+    "id": 14,
+    "name": "Sea Wolves",
+    "active": true,
+    "employeeIds": [3501, 3502, 3503, 3504, 3505, 3506, 3507, 3508, 3509, 3510],
+    "description": "They have been there already"
+  },{
+    "id": 15,
+    "name": "Nine Inch Snails",
+    "active": true,
+    "employeeIds": [3721, 3722, 3723, 3724, 3725, 3726, 3727, 3728, 3729, 3730],
+    "description": "They will get there one day"
+  },{
+    "id": 16,
+    "name": "Money Magnets",
+    "active": true,
+    "employeeIds": [3821, 3822, 3823, 3824, 3825, 3826, 3827, 3828, 3829, 3830],
+    "description": "Every company should get one of them"
+  },
+   {
+    "id": 17,
+    "name": "Brainy Buddies",
+    "description": "Nothing can be achieved without having fun.",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 18,
+    "name": "Dynamite Dealers",
+    "description": "Can't beat them at negotiation or Monopoly..",
+    "active": true,
+     "employeeIds": []
+  },
+  {
+    "id": 19,
+    "name": "Unfrozen Caveman",
+    "description":
+      "If you need extreme solution they are there for you. Might be rude from time to time",
+    "active": true,
+     "employeeIds": []
+  },
+  {
+    "id": 20,
+    "name": "Mind Serenade",
+    "description": "They always think out from the box",
+    "active": true,
+     "employeeIds": []
+  },
+  {
+    "id": 21,
+    "name": "Clan Optimism",
+    "description": "Watch the bright side of everything",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 22,
+    "name": "Ancient Anarchy",
+    "description": "Hard to drive them. But they know how to get there",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 23,
+    "name": "Soul Glory",
+    "description": "No indulgence on the threats of bad habits",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 24,
+    "name": "Code Polluters",
+    "description": "Refactoring, design patterns, solid, clean code are blasphemy here",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 25,
+    "name": "Viral Voodoo",
+    "description": "They have a magic spell to infect all potential customers with product mindset",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 26,
+    "name": "Sting Pirates",
+    "description": "Sharp and humorous with a taste of insulting in rhyme",
+    "active": true,
+    "employeeIds": []
+  },
+  {
+    "id": 27,
+    "name": "Copy & Kaos",
+    "description": "It works, but I don't know why nor how",
+    "active": true,
+    "employeeIds": []
+  }]
+  

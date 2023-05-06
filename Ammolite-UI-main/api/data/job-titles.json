@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Professor",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "Research Associate",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "Engineer IV",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 4,
+    "name": "Account Representative III",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Software Test Engineer IV",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 6,
+    "name": "Registered Nurse",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 7,
+    "name": "Editor",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 8,
+    "name": "Internal Auditor",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 9,
+    "name": "Compensation Analyst",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 10,
+    "name": "Director of Sales",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 11,
+    "name": "Programmer III",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 12,
+    "name": "GIS Technical Architect",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 13,
+    "name": "VP Quality Control",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 14,
+    "name": "Account Executive",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 15,
+    "name": "Legal Assistant",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 16,
+    "name": "Account Executive",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 17,
+    "name": "Associate Professor",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 18,
+    "name": "Structural Analysis Engineer",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 19,
+    "name": "Electrical Engineer",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 20,
+    "name": "Cost Accountant",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 21,
+    "name": "Business Systems Development Analyst",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 22,
+    "name": "Statistician I",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 23,
+    "name": "Compensation Analyst",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 24,
+    "name": "Analyst Programmer",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 25,
+    "name": "Database Administrator I",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 26,
+    "name": "Senior Sales Associate",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 27,
+    "name": "Teacher",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 28,
+    "name": "Physical Therapy Assistant",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 29,
+    "name": "Dental Hygienist",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  },
+  {
+    "id": 30,
+    "name": "Marketing Manager",
+    "createdBy": "admin",
+    "endDate": null,
+    "startDate": "2023-04-21T22:35:09.483Z",
+    "status": true
+  }
+]
